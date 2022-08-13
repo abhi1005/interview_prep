@@ -1,7 +1,9 @@
+package maths.test;
+
 import java.util.ArrayList;
 import java.util.List;
 
-public class TestKlearNow {
+public class KlearNowTest {
 
     static List<List<Integer>> mainList = new ArrayList<>();
 
